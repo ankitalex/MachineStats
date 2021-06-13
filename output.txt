@@ -1,0 +1,97 @@
+======================================== System Information ========================================
+System: Windows
+Node Name: DESKTOP-N2UO22H
+Release: 10
+Version: 10.0.19041
+Machine: AMD64
+Processor: Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
+======================================== Boot Time ========================================
+Boot Time: 2021/6/11 12:36:38
+======================================== CPU Info ========================================
+Physical cores: 2
+Total cores: 4
+Max Frequency: 2100.00Mhz
+Min Frequency: 0.00Mhz
+Current Frequency: 2100.00Mhz
+CPU Usage Per Core:
+Core 0: 13.6%
+Core 1: 14.1%
+Core 2: 12.5%
+Core 3: 3.1%
+Total CPU Usage: 11.5%
+======================================== Memory Information ========================================
+Total: 5.91GB
+Available: 1.14GB
+Used: 4.78GB
+Percentage: 80.8%
+==================== SWAP ====================
+Total: 9.54GB
+Free: 2.25GB
+Used: 7.29GB
+Percentage: 76.5%
+======================================== Disk Information ========================================
+Partitions and Usage:
+=== Device: C:\ ===
+  Mountpoint: C:\
+  File system type: NTFS
+  Total Size: 199.51GB
+  Used: 77.87GB
+  Free: 121.64GB
+  Percentage: 39.0%
+=== Device: E:\ ===
+  Mountpoint: E:\
+  File system type: NTFS
+  Total Size: 365.50GB
+  Used: 62.23GB
+  Free: 303.27GB
+  Percentage: 17.0%
+=== Device: F:\ ===
+  Mountpoint: F:\
+  File system type: NTFS
+  Total Size: 366.01GB
+  Used: 65.90GB
+  Free: 300.11GB
+  Percentage: 18.0%
+=== Device: G:\ ===
+  Mountpoint: G:\
+  File system type: 
+Total read: 17.32GB
+Total write: 11.99GB
+======================================== Network Information ========================================
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+  IP Address: 169.254.21.255
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Ethernet ===
+=== Interface: Local Area Connection* 5 ===
+=== Interface: Local Area Connection* 5 ===
+  IP Address: 169.254.140.168
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Local Area Connection* 5 ===
+=== Interface: Local Area Connection* 6 ===
+=== Interface: Local Area Connection* 6 ===
+  IP Address: 169.254.12.135
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Local Area Connection* 6 ===
+=== Interface: Wi-Fi ===
+=== Interface: Wi-Fi ===
+  IP Address: 192.168.1.4
+  Netmask: 255.255.255.0
+  Broadcast IP: None
+=== Interface: Wi-Fi ===
+=== Interface: Bluetooth Network Connection 2 ===
+=== Interface: Bluetooth Network Connection 2 ===
+  IP Address: 169.254.45.70
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Bluetooth Network Connection 2 ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: Loopback Pseudo-Interface 1 ===
+Total Bytes Sent: 34.11MB
+Total Bytes Received: 206.74MB
